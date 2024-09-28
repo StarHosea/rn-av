@@ -12,7 +12,7 @@ npm install @starhosea/rn-av
 
 
 ```tsx
-import { Av } from '@star/rn-av';
+import { Av } from '@starhosea/rn-av';
 
 const source = "/storage/sdcard/0/Music/a.wav";
 const target = "/storage/sdcard/0/Music/a-converted.mp3";
