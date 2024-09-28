@@ -5,7 +5,7 @@ RN ffmpeg based av converter.
 
 ## Installation
 ```
-npm install @star/rn-av
+npm install @starhosea/rn-av
 ```
 
 ## How to Use
